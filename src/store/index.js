@@ -1,3 +1,5 @@
+//https://otto-klaus-8d1eb.web.app  -->hosting pagina web
+
 import Vue from "vue";
 import Vuex from "vuex";
 import firebase from 'firebase';
